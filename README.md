@@ -19,7 +19,7 @@ This project explores the integration of artificial intelligence (AI) and urban 
 The hybrid LSTM-DNN model was able to predict streetlight energy usage based on weather patterns, providing a framework for smart energy management in urban environments. Future work involves improving model scalability and incorporating additional data types for even greater accuracy.
 
 ## Documentation
-For a detailed explanation of this project, refer to the [Dissertation Document](https://github.com/yenijung/smartcityproject/blob/507c805023b146975f72258de2b13bc41918e333/23%3A24%20final%20year%20project%20.pdf)
+For a detailed explanation of this project, refer to the [Dissertation Document](https://github.com/yenijung/smartcityproject/blob/507c805023b146975f72258de2b13bc41918e333/23%3A24%20final%20year%20project%20.pdf).
 
 ## How to Run the Project
 ### Prerequisites
